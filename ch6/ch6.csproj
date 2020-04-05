@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Demo1.aspx" />
+    <Content Include="file\qq.png" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
